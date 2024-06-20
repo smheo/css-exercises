@@ -1,0 +1,25 @@
+background{
+    color: white;
+
+}
+
+button{
+    border: green;
+}
+
+.click_me{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 28px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.no_click_me{
+    background-color: yellow;
+    text-color: black;
+    font-weight: bolder;
+    font-size: 28px;
+    border-color: white;
+    font-family:Helvetica, "Times New Roman", sans-serif;
+}

@@ -1,0 +1,17 @@
+.odd_class {
+    background: lightpink;
+    color: black;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+#second_id {
+    color: blue;
+    font-size: xxx-large;
+
+}
+
+#green_id {
+    background: green;
+
+}
